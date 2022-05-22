@@ -6,3 +6,4 @@
 - Passing Data via "props"
 - Adding "normal" JavaScript Logic to Components
 - Splitting Components Into Multiple Components
+- Practices: React & Component Basics
