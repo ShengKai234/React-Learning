@@ -7,3 +7,6 @@
 - Adding "normal" JavaScript Logic to Components
 - Splitting Components Into Multiple Components
 - Practices: React & Component Basics
+- The Concept of "Composition" ("children props")
+    - resuable wrapper component
+- Organizing Component Files
