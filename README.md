@@ -12,3 +12,12 @@
 - Organizing Component Files
 - Listening to Event & Working with Event Handle
 - State
+- Adding form input
+    - Litsenting to User Input
+    - (onChange) Working with Multiple States
+    - (onChange) Using One State Instead (What's Better)
+    - (onChange) Update State That Depends On The Previous State (Often)
+    - Handling From Submission
+    - Adding Two-Way Binding
+    - Child-to-Parent Component Communication (Buttom-up)
+    - Concept: Lifting The State Up
