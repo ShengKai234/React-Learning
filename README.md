@@ -28,3 +28,6 @@
     - List Filter
     - Outputting Conditional Content
     - Adding Conditional Return Statements
+    - Adding a Chart
+    - Adding Dynamic Styles
+    - Wrap Up & Mext Steps
