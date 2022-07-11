@@ -31,3 +31,7 @@
     - Adding a Chart
     - Adding Dynamic Styles
     - Wrap Up & Mext Steps
+- Styling React Component
+    - Dynamic Styles
+    - Styled Components & Dynamic Props
+    - CSS Module
