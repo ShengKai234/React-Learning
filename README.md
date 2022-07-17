@@ -35,3 +35,8 @@
     - Dynamic Styles
     - Styled Components & Dynamic Props
     - CSS Module
+
+``` shell
+npm install
+npm start
+```
