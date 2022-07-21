@@ -35,6 +35,17 @@
     - Dynamic Styles
     - Styled Components & Dynamic Props
     - CSS Module
+- Debugging React Apps
+- Practice: A Complete Practice Project (dev logic)
+    - Adding "User" Component (/Users/AddUser.js)
+    - Adding a re-usable "Card" Component (/UI/Card.js)
+    - Adding a re-usable "Button" Component (/UI/Button.js)
+    - Managing the User input State (useState())
+    - Adding Validation & Resetting Logic (addUserHandler)
+    - Adding a Users List Component
+    - Managing a List Of Users via State (lifting the state up)
+    - Adding The "ErrorModal" Component
+    - Managing the Error State
 
 ``` shell
 npm install
