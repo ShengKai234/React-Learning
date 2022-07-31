@@ -46,6 +46,12 @@
     - Managing a List Of Users via State (lifting the state up)
     - Adding The "ErrorModal" Component
     - Managing the Error State
+- Diving Deeper: Working with Fragements, Protals & "Refs"
+    - Wrapper Component
+    - React Fragments
+    - React Protals
+    - "Refs"
+    - Controller vs Uncontroller Components
 
 ``` shell
 npm install
